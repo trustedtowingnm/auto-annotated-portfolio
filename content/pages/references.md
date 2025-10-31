@@ -66,6 +66,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+    title: Mohawk Industries
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
