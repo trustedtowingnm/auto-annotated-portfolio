@@ -32,7 +32,7 @@ sections:
           “Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!”
         name: Jeff Heffner
-        title: CEO at Parks
+        title: Technical Director
         elementId: ''
       - type: Testimonial
         quote: >-
