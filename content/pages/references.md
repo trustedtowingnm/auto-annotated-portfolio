@@ -2,25 +2,47 @@
 type: PageLayout
 title: References
 sections:
-  - type: TextSection
-    title: References
-    subtitle: My corporate bosses
-    text: >
-      The following people have all tried to rehire me within the last year and
-      I'm sure they will give me a good review about my can do attitude.
-    colors: colors-f
-    variant: variant-a
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >-
+          “Our website is the core of our sales strategy. Doris helped us
+          establish an easy-to-maintain Stackbit site with outstanding visuals!”
+        name: John Doe
+        title: CEO at Parks
+        image:
+          type: ImageBlock
+          url: /images/person-2.jpg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+      - type: Testimonial
+        quote: >-
+          “Anytime I have a question, I know I can get in touch with Doris. She
+          always helps me adjust my site to look as perfect as I’d hoped.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/person-3.jpg
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+    colors: colors-a
+    variant: variant-b
     elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-12
-          - pb-36
+          - pt-28
+          - pb-28
           - pl-4
           - pr-4
-        textAlign: left
+        textAlign: center
   - type: TextSection
     title: The Section Title
     subtitle: The section subtitle
