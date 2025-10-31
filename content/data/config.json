@@ -19,11 +19,6 @@
                 "url": "/skills",
                 "altText": "skills",
                 "iconPosition": "right"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
             }
         ],
         "socialLinks": [],
