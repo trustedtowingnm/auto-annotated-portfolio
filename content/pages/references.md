@@ -3,7 +3,7 @@ type: PageLayout
 title: References
 sections:
   - type: TextSection
-    title: This in an empty page
+    title: References
     subtitle: The section subtitle
     text: >
       The following people have all tried to rehire me within the last year and
