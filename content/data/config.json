@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "References",
-                "altText": "",
+                "altText": "references",
                 "url": "/references",
                 "showIcon": false,
                 "icon": "arrowRight",
