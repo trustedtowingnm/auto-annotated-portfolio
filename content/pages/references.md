@@ -29,8 +29,9 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >-
-          “Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!”
+          Jeff Heffner was my bosses, bosses, boss. We would interface multiple
+          times a week; helping me have a VPs perspective on how what I did
+          impacted the facility. 
         name: Jeff Heffner
         title: Technical Director
         elementId: ''
