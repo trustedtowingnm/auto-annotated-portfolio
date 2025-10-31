@@ -70,8 +70,8 @@ sections:
     testimonials:
       - type: Testimonial
         quote: >-
-          “Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!”
+          Todd Miller was my direct boss when I worked at UCC and we worked
+          together from 2009 - 2020.
         name: Todd Miller
         title: VP of Southern Operations
         elementId: ''
