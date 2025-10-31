@@ -15,6 +15,16 @@
             },
             {
                 "type": "Link",
+                "label": "Learn more",
+                "altText": "",
+                "url": "/references",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
                 "label": "Skills",
                 "url": "/skills",
                 "altText": "skills",
