@@ -107,6 +107,7 @@ sections:
           - pl-4
           - pr-4
         textAlign: center
+    title: Underwater Construction Corp
 addTitleSuffix: true
 colors: colors-a
 backgroundImage:
