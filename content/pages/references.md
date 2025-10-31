@@ -73,7 +73,7 @@ sections:
           “Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!”
         name: Todd Miller
-        title: CEO at Parks
+        title: VP of Southern Operations
         elementId: ''
       - type: Testimonial
         quote: >-
