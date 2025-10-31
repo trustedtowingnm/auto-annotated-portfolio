@@ -31,7 +31,7 @@ sections:
         quote: >-
           “Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!”
-        name: John Doe
+        name: Jeff Heffner
         title: CEO at Parks
         elementId: ''
       - type: Testimonial
