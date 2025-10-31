@@ -5,9 +5,9 @@ sections:
   - type: TextSection
     title: This in an empty page
     subtitle: The section subtitle
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: >
+      The following people have all tried to rehire me within the last year and
+      I'm sure they will give me a good review about my can do attitude.
     colors: colors-f
     variant: variant-a
     elementId: ''
