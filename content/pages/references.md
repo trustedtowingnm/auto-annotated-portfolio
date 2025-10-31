@@ -33,12 +33,6 @@ sections:
           establish an easy-to-maintain Stackbit site with outstanding visuals!”
         name: John Doe
         title: CEO at Parks
-        image:
-          type: ImageBlock
-          url: /images/person-2.jpg
-          altText: John Doe
-          caption: Caption of the image
-          elementId: ''
         elementId: ''
       - type: Testimonial
         quote: >-
