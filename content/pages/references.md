@@ -67,7 +67,7 @@ sections:
           - pr-4
         textAlign: center
     title: Mohawk Industries
-    subtitle: 2021-2022
+    subtitle: ''
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
