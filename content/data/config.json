@@ -18,7 +18,7 @@
                 "label": "References",
                 "altText": "references",
                 "url": "/references",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": ""
