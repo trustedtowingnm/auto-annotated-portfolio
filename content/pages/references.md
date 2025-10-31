@@ -80,7 +80,7 @@ sections:
           “Anytime I have a question, I know I can get in touch with Doris. She
           always helps me adjust my site to look as perfect as I’d hoped.”
         name: Anthony Winters
-        title: Product Marketing Manager at Acme
+        title: Tennessee Office Operations
         image:
           type: ImageBlock
           url: /images/person-3.jpg
