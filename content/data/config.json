@@ -16,7 +16,8 @@
             {
                 "type": "Link",
                 "label": "Skills",
-                "url": "/projects"
+                "url": "/projects",
+                "altText": "skills"
             },
             {
                 "type": "Link",
