@@ -39,7 +39,7 @@ sections:
         quote: >-
           In addition to Michael McDaniel being one of the best bosses I have
           ever had. He would sit in most meetings with every department; this
-          gave him the perspective he needed to solve many of the other
+          gave him the wish list he needed to solve many of the other
           departments problems via me and my team.
         name: Michael McDaniel
         title: Maintenance Manager
