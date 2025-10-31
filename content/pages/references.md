@@ -4,7 +4,7 @@ title: References
 sections:
   - type: TextSection
     title: References
-    subtitle: The section subtitle
+    subtitle: My corporate bosses
     text: >
       The following people have all tried to rehire me within the last year and
       I'm sure they will give me a good review about my can do attitude.
